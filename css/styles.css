@@ -1,0 +1,37 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(247, 202, 247);
+    position: relative;
+    text-align: center;
+}
+  
+h1 {
+    color: white;
+    text-align: center;
+    position: relative;
+    text-align: center;
+}
+  
+input{
+    height: 25px;
+    font-style: italic;
+    position: relative;
+    text-align: center;
+}
+  
+button {
+    background-color: rgb(190, 44, 190);
+    color: white;
+   
+    
+}
+p{
+    color: white;
+    font-size: large;
+    font-weight:bold ;
+}
+  
+  
+  
